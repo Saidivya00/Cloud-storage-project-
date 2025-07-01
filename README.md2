@@ -2,8 +2,6 @@
 
 This project demonstrates how to set up real-time monitoring and alerting for a cloud-based application hosted on **Amazon Web Services (AWS)** using **CloudWatch** and **Simple Notification Service (SNS)**.
 
----
-
 ## 🎯 Objectives
 
 - Deploy and monitor a web application on EC2
@@ -11,8 +9,6 @@ This project demonstrates how to set up real-time monitoring and alerting for a 
 - Create a CloudWatch dashboard with key metrics
 - Configure alarms for high CPU and disk usage
 - Send automated email notifications using SNS
-
----
 
 ## 🛠️ Tools Used
 
@@ -22,7 +18,6 @@ This project demonstrates how to set up real-time monitoring and alerting for a 
 - CloudWatch Agent
 - SNS (Simple Notification Service)
 
----
 
 ## 🧰 Steps Followed
 
